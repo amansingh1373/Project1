@@ -1,0 +1,16 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "first project to learn backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "Aman Singh",
+  "license": "ISC",
+  "devDependencies": {
+"dotenv": "^16.4.5",
+    "nodemon": "^3.1.0"
+  }
+}
